@@ -1,0 +1,837 @@
+2025-01-01 08:13:00 - PILL EVENT DETECTED
+Pill Event: Time 0m 13.2s
+  - Within Pick-Place window: 32.0s to 72.8s
+  - 3D Tilt: 39.20
+  - Orientation: Roll=42.94°, Pitch=-13.50°, Yaw=73.83°
+  - Pressure: 462 at 16.0s
+  - Light: 440.09 lux at 53.9s
+2025-01-01 08:13:00 - POSSIBLE FORGOTTEN PILL
+2025-01-01 08:13:00 - Actual time of event: 2025-01-01 08:13:00
+2025-01-01 13:48:00 - PILL EVENT DETECTED
+Pill Event: Time 0m 25.0s
+  - Within Pick-Place window: 25.2s to 110.1s
+  - 3D Tilt: 42.60
+  - Orientation: Roll=0.73°, Pitch=-2.08°, Yaw=46.19°
+  - Pressure: 299 at 9.5s
+  - Light: 69.21 lux at 27.8s
+2025-01-01 13:48:00 - MISSED PILL
+2025-01-01 13:48:00 - Actual time of event: 2025-01-01 13:48:00
+2025-01-01 20:04:00 - PILL EVENT DETECTED
+Pill Event: Time 0m 8.8s
+  - Within Pick-Place window: 18.8s to 72.9s
+  - 3D Tilt: 29.48
+  - Orientation: Roll=2.79°, Pitch=17.13°, Yaw=87.08°
+  - Pressure: 489 at 34.0s
+  - Light: 532.89 lux at 37.2s
+2025-01-01 20:04:00 - MISSED PILL
+2025-01-01 20:04:00 - Actual time of event: 2025-01-01 20:04:00
+2025-01-02 08:11:00 - PILL EVENT DETECTED
+Pill Event: Time 0m 29.5s
+  - Within Pick-Place window: 58.6s to 101.3s
+  - 3D Tilt: 35.26
+  - Orientation: Roll=-47.44°, Pitch=-3.15°, Yaw=71.67°
+  - Pressure: 350 at 56.7s
+  - Light: 285.68 lux at 24.4s
+2025-01-02 08:11:00 - POSSIBLE FORGOTTEN PILL
+2025-01-02 08:11:00 - Actual time of event: 2025-01-02 08:11:00
+2025-01-02 14:12:00 - PILL EVENT DETECTED
+Pill Event: Time 0m 14.0s
+  - Within Pick-Place window: 8.4s to 63.3s
+  - 3D Tilt: 22.96
+  - Orientation: Roll=26.99°, Pitch=-7.06°, Yaw=46.17°
+  - Pressure: 510 at 9.9s
+  - Light: 370.12 lux at 5.5s
+2025-01-02 14:12:00 - SWALLOW CONFIRMED
+2025-01-02 14:12:00 - Actual time of event: 2025-01-02 14:12:00
+2025-01-02 20:09:00 - PILL EVENT DETECTED
+Pill Event: Time 0m 50.5s
+  - Within Pick-Place window: 43.3s to 104.9s
+  - 3D Tilt: 27.32
+  - Orientation: Roll=7.68°, Pitch=9.27°, Yaw=83.37°
+  - Pressure: 587 at 5.4s
+  - Light: 519.80 lux at 37.4s
+2025-01-02 20:09:00 - MISSED PILL
+2025-01-02 20:09:00 - Actual time of event: 2025-01-02 20:09:00
+2025-01-03 07:48:00 - PILL EVENT DETECTED
+Pill Event: Time 0m 22.7s
+  - Within Pick-Place window: 52.0s to 81.3s
+  - 3D Tilt: 43.69
+  - Orientation: Roll=27.84°, Pitch=-12.99°, Yaw=52.52°
+  - Pressure: 382 at 6.0s
+  - Light: 518.45 lux at 29.2s
+2025-01-03 07:48:00 - POSSIBLE FORGOTTEN PILL
+2025-01-03 07:48:00 - Actual time of event: 2025-01-03 07:48:00
+2025-01-03 14:08:00 - PILL EVENT DETECTED
+Pill Event: Time 0m 35.6s
+  - Within Pick-Place window: 16.8s to 82.7s
+  - 3D Tilt: 18.83
+  - Orientation: Roll=19.20°, Pitch=12.14°, Yaw=74.96°
+  - Pressure: 427 at 48.1s
+  - Light: 431.03 lux at 22.7s
+2025-01-03 14:08:00 - SWALLOW CONFIRMED
+2025-01-03 14:08:00 - Actual time of event: 2025-01-03 14:08:00
+2025-01-03 20:05:00 - PILL EVENT DETECTED
+Pill Event: Time 0m 25.8s
+  - Within Pick-Place window: 23.9s to 103.2s
+  - 3D Tilt: 37.57
+  - Orientation: Roll=18.46°, Pitch=17.82°, Yaw=76.99°
+  - Pressure: 386 at 12.1s
+  - Light: 576.12 lux at 11.1s
+2025-01-03 20:05:00 - MISSED PILL
+2025-01-03 20:05:00 - Actual time of event: 2025-01-03 20:05:00
+2025-01-04 08:14:00 - PILL EVENT DETECTED
+Pill Event: Time 0m 31.3s
+  - Within Pick-Place window: 38.1s to 119.0s
+  - 3D Tilt: 42.37
+  - Orientation: Roll=49.71°, Pitch=0.36°, Yaw=46.27°
+  - Pressure: 436 at 43.0s
+  - Light: 187.63 lux at 5.4s
+2025-01-04 08:14:00 - POSSIBLE FORGOTTEN PILL
+2025-01-04 08:14:00 - Actual time of event: 2025-01-04 08:14:00
+2025-01-04 13:56:00 - PILL EVENT DETECTED
+Pill Event: Time 0m 37.0s
+  - Within Pick-Place window: 16.9s to 70.0s
+  - 3D Tilt: 29.20
+  - Orientation: Roll=47.77°, Pitch=3.07°, Yaw=45.97°
+  - Pressure: 462 at 54.5s
+  - Light: 253.90 lux at 8.2s
+2025-01-04 13:56:00 - SWALLOW CONFIRMED
+2025-01-04 13:56:00 - Actual time of event: 2025-01-04 13:56:00
+2025-01-04 20:04:00 - PILL EVENT DETECTED
+Pill Event: Time 0m 50.2s
+  - Within Pick-Place window: 27.4s to 107.4s
+  - 3D Tilt: 21.02
+  - Orientation: Roll=31.07°, Pitch=18.56°, Yaw=52.89°
+  - Pressure: 598 at 12.5s
+  - Light: 364.18 lux at 31.5s
+2025-01-04 20:04:00 - MISSED PILL
+2025-01-04 20:04:00 - Actual time of event: 2025-01-04 20:04:00
+2025-01-05 07:49:00 - PILL EVENT DETECTED
+Pill Event: Time 0m 12.8s
+  - Within Pick-Place window: 7.1s to 99.3s
+  - 3D Tilt: 24.43
+  - Orientation: Roll=-7.12°, Pitch=5.27°, Yaw=86.19°
+  - Pressure: 547 at 44.8s
+  - Light: 438.33 lux at 28.5s
+2025-01-05 07:49:00 - POSSIBLE FORGOTTEN PILL
+2025-01-05 07:49:00 - Actual time of event: 2025-01-05 07:49:00
+2025-01-05 14:13:00 - PILL EVENT DETECTED
+Pill Event: Time 0m 53.4s
+  - Within Pick-Place window: 7.3s to 61.0s
+  - 3D Tilt: 27.66
+  - Orientation: Roll=33.72°, Pitch=-17.76°, Yaw=64.44°
+  - Pressure: 255 at 38.8s
+  - Light: 54.69 lux at 56.3s
+2025-01-05 14:13:00 - POSSIBLE FORGOTTEN PILL
+2025-01-05 14:13:00 - Actual time of event: 2025-01-05 14:13:00
+2025-01-05 20:05:00 - PILL EVENT DETECTED
+Pill Event: Time 0m 42.2s
+  - Within Pick-Place window: 24.4s to 110.3s
+  - 3D Tilt: 38.01
+  - Orientation: Roll=-26.29°, Pitch=-8.34°, Yaw=69.91°
+  - Pressure: 270 at 22.1s
+  - Light: 224.48 lux at 57.9s
+2025-01-05 20:05:00 - SWALLOW CONFIRMED
+2025-01-05 20:05:00 - Actual time of event: 2025-01-05 20:05:00
+2025-01-06 08:01:00 - PILL EVENT DETECTED
+Pill Event: Time 0m 35.2s
+  - Within Pick-Place window: 44.2s to 96.2s
+  - 3D Tilt: 33.63
+  - Orientation: Roll=-23.69°, Pitch=6.29°, Yaw=88.88°
+  - Pressure: 381 at 52.0s
+  - Light: 479.49 lux at 11.9s
+2025-01-06 08:01:00 - SWALLOW CONFIRMED
+2025-01-06 08:01:00 - Actual time of event: 2025-01-06 08:01:00
+2025-01-06 14:11:00 - PILL EVENT DETECTED
+Pill Event: Time 0m 40.3s
+  - Within Pick-Place window: 56.8s to 98.6s
+  - 3D Tilt: 28.10
+  - Orientation: Roll=-29.95°, Pitch=-19.91°, Yaw=47.86°
+  - Pressure: 323 at 11.5s
+  - Light: 355.33 lux at 34.0s
+2025-01-06 14:11:00 - POSSIBLE FORGOTTEN PILL
+2025-01-06 14:11:00 - Actual time of event: 2025-01-06 14:11:00
+2025-01-06 20:07:00 - PILL EVENT DETECTED
+Pill Event: Time 0m 18.5s
+  - Within Pick-Place window: 28.9s to 80.9s
+  - 3D Tilt: 33.10
+  - Orientation: Roll=-41.65°, Pitch=12.87°, Yaw=54.26°
+  - Pressure: 589 at 48.6s
+  - Light: 526.74 lux at 15.9s
+2025-01-06 20:07:00 - POSSIBLE FORGOTTEN PILL
+2025-01-06 20:07:00 - Actual time of event: 2025-01-06 20:07:00
+2025-01-07 08:03:00 - PILL EVENT DETECTED
+Pill Event: Time 0m 38.3s
+  - Within Pick-Place window: 16.4s to 74.4s
+  - 3D Tilt: 22.18
+  - Orientation: Roll=-30.80°, Pitch=-12.29°, Yaw=62.37°
+  - Pressure: 430 at 22.4s
+  - Light: 347.34 lux at 54.0s
+2025-01-07 08:03:00 - MISSED PILL
+2025-01-07 08:03:00 - Actual time of event: 2025-01-07 08:03:00
+2025-01-07 14:06:00 - PILL EVENT DETECTED
+Pill Event: Time 0m 55.2s
+  - Within Pick-Place window: 53.3s to 111.9s
+  - 3D Tilt: 23.07
+  - Orientation: Roll=-46.88°, Pitch=-5.30°, Yaw=46.11°
+  - Pressure: 386 at 7.2s
+  - Light: 407.89 lux at 45.8s
+2025-01-07 14:06:00 - POSSIBLE FORGOTTEN PILL
+2025-01-07 14:06:00 - Actual time of event: 2025-01-07 14:06:00
+2025-01-07 20:03:00 - PILL EVENT DETECTED
+Pill Event: Time 0m 6.0s
+  - Within Pick-Place window: 47.3s to 103.6s
+  - 3D Tilt: 15.16
+  - Orientation: Roll=-20.09°, Pitch=12.25°, Yaw=43.61°
+  - Pressure: 478 at 18.3s
+  - Light: 375.94 lux at 16.9s
+2025-01-07 20:03:00 - POSSIBLE FORGOTTEN PILL
+2025-01-07 20:03:00 - Actual time of event: 2025-01-07 20:03:00
+2025-01-08 08:06:00 - PILL EVENT DETECTED
+Pill Event: Time 0m 15.1s
+  - Within Pick-Place window: 8.0s to 95.3s
+  - 3D Tilt: 36.93
+  - Orientation: Roll=38.80°, Pitch=-3.28°, Yaw=42.18°
+  - Pressure: 327 at 38.1s
+  - Light: 547.77 lux at 50.4s
+2025-01-08 08:06:00 - MISSED PILL
+2025-01-08 08:06:00 - Actual time of event: 2025-01-08 08:06:00
+2025-01-08 14:05:00 - PILL EVENT DETECTED
+Pill Event: Time 0m 52.3s
+  - Within Pick-Place window: 29.3s to 108.7s
+  - 3D Tilt: 41.92
+  - Orientation: Roll=21.65°, Pitch=-19.30°, Yaw=62.58°
+  - Pressure: 288 at 41.9s
+  - Light: 235.94 lux at 39.1s
+2025-01-08 14:05:00 - SWALLOW CONFIRMED
+2025-01-08 14:05:00 - Actual time of event: 2025-01-08 14:05:00
+2025-01-08 19:45:00 - PILL EVENT DETECTED
+Pill Event: Time 0m 56.5s
+  - Within Pick-Place window: 8.0s to 105.9s
+  - 3D Tilt: 10.40
+  - Orientation: Roll=25.62°, Pitch=-14.84°, Yaw=74.30°
+  - Pressure: 441 at 34.7s
+  - Light: 215.16 lux at 45.1s
+2025-01-08 19:45:00 - SWALLOW CONFIRMED
+2025-01-08 19:45:00 - Actual time of event: 2025-01-08 19:45:00
+2025-01-09 07:57:00 - PILL EVENT DETECTED
+Pill Event: Time 0m 54.0s
+  - Within Pick-Place window: 54.3s to 94.5s
+  - 3D Tilt: 39.09
+  - Orientation: Roll=32.26°, Pitch=15.22°, Yaw=46.82°
+  - Pressure: 291 at 48.1s
+  - Light: 493.31 lux at 55.1s
+2025-01-09 07:57:00 - POSSIBLE FORGOTTEN PILL
+2025-01-09 07:57:00 - Actual time of event: 2025-01-09 07:57:00
+2025-01-09 13:46:00 - PILL EVENT DETECTED
+Pill Event: Time 0m 13.7s
+  - Within Pick-Place window: 49.9s to 100.8s
+  - 3D Tilt: 38.50
+  - Orientation: Roll=8.06°, Pitch=2.69°, Yaw=51.98°
+  - Pressure: 383 at 20.6s
+  - Light: 550.90 lux at 11.7s
+2025-01-09 13:46:00 - SWALLOW CONFIRMED
+2025-01-09 13:46:00 - Actual time of event: 2025-01-09 13:46:00
+2025-01-09 20:13:00 - PILL EVENT DETECTED
+Pill Event: Time 0m 42.1s
+  - Within Pick-Place window: 37.3s to 87.4s
+  - 3D Tilt: 47.04
+  - Orientation: Roll=-35.86°, Pitch=-15.93°, Yaw=42.40°
+  - Pressure: 418 at 12.7s
+  - Light: 93.97 lux at 28.9s
+2025-01-09 20:13:00 - SWALLOW CONFIRMED
+2025-01-09 20:13:00 - Actual time of event: 2025-01-09 20:13:00
+2025-01-10 07:45:00 - PILL EVENT DETECTED
+Pill Event: Time 0m 42.9s
+  - Within Pick-Place window: 27.2s to 64.5s
+  - 3D Tilt: 19.54
+  - Orientation: Roll=43.80°, Pitch=-15.63°, Yaw=67.88°
+  - Pressure: 430 at 55.3s
+  - Light: 554.91 lux at 49.3s
+2025-01-10 07:45:00 - MISSED PILL
+2025-01-10 07:45:00 - Actual time of event: 2025-01-10 07:45:00
+2025-01-10 13:51:00 - PILL EVENT DETECTED
+Pill Event: Time 0m 14.9s
+  - Within Pick-Place window: 31.3s to 74.2s
+  - 3D Tilt: 12.48
+  - Orientation: Roll=-32.64°, Pitch=8.93°, Yaw=63.04°
+  - Pressure: 381 at 51.7s
+  - Light: 105.73 lux at 22.4s
+2025-01-10 13:51:00 - MISSED PILL
+2025-01-10 13:51:00 - Actual time of event: 2025-01-10 13:51:00
+2025-01-10 20:06:00 - PILL EVENT DETECTED
+Pill Event: Time 0m 18.3s
+  - Within Pick-Place window: 12.6s to 113.2s
+  - 3D Tilt: 29.95
+  - Orientation: Roll=30.60°, Pitch=-9.00°, Yaw=57.94°
+  - Pressure: 518 at 55.0s
+  - Light: 262.29 lux at 30.3s
+2025-01-10 20:06:00 - MISSED PILL
+2025-01-10 20:06:00 - Actual time of event: 2025-01-10 20:06:00
+2025-01-11 08:09:00 - PILL EVENT DETECTED
+Pill Event: Time 0m 16.2s
+  - Within Pick-Place window: 24.5s to 80.7s
+  - 3D Tilt: 49.26
+  - Orientation: Roll=7.49°, Pitch=7.99°, Yaw=59.08°
+  - Pressure: 374 at 59.5s
+  - Light: 573.32 lux at 7.1s
+2025-01-11 08:09:00 - SWALLOW CONFIRMED
+2025-01-11 08:09:00 - Actual time of event: 2025-01-11 08:09:00
+2025-01-11 13:56:00 - PILL EVENT DETECTED
+Pill Event: Time 0m 27.5s
+  - Within Pick-Place window: 54.1s to 112.9s
+  - 3D Tilt: 24.92
+  - Orientation: Roll=28.64°, Pitch=-5.66°, Yaw=46.85°
+  - Pressure: 343 at 49.5s
+  - Light: 210.24 lux at 48.6s
+2025-01-11 13:56:00 - SWALLOW CONFIRMED
+2025-01-11 13:56:00 - Actual time of event: 2025-01-11 13:56:00
+2025-01-11 20:14:00 - PILL EVENT DETECTED
+Pill Event: Time 0m 38.5s
+  - Within Pick-Place window: 55.1s to 62.5s
+  - 3D Tilt: 48.47
+  - Orientation: Roll=-41.47°, Pitch=3.47°, Yaw=85.64°
+  - Pressure: 571 at 11.6s
+  - Light: 151.28 lux at 31.6s
+2025-01-11 20:14:00 - MISSED PILL
+2025-01-11 20:14:00 - Actual time of event: 2025-01-11 20:14:00
+2025-01-12 07:55:00 - PILL EVENT DETECTED
+Pill Event: Time 0m 47.0s
+  - Within Pick-Place window: 33.0s to 79.7s
+  - 3D Tilt: 11.27
+  - Orientation: Roll=44.29°, Pitch=-10.39°, Yaw=52.37°
+  - Pressure: 565 at 34.4s
+  - Light: 157.73 lux at 34.6s
+2025-01-12 07:55:00 - MISSED PILL
+2025-01-12 07:55:00 - Actual time of event: 2025-01-12 07:55:00
+2025-01-12 14:14:00 - PILL EVENT DETECTED
+Pill Event: Time 0m 58.8s
+  - Within Pick-Place window: 37.3s to 107.0s
+  - 3D Tilt: 44.22
+  - Orientation: Roll=12.55°, Pitch=-3.67°, Yaw=42.75°
+  - Pressure: 432 at 26.1s
+  - Light: 311.83 lux at 19.6s
+2025-01-12 14:14:00 - SWALLOW CONFIRMED
+2025-01-12 14:14:00 - Actual time of event: 2025-01-12 14:14:00
+2025-01-12 19:52:00 - PILL EVENT DETECTED
+Pill Event: Time 0m 27.6s
+  - Within Pick-Place window: 28.5s to 116.2s
+  - 3D Tilt: 12.40
+  - Orientation: Roll=3.60°, Pitch=4.72°, Yaw=69.10°
+  - Pressure: 522 at 20.9s
+  - Light: 54.05 lux at 42.7s
+2025-01-12 19:52:00 - POSSIBLE FORGOTTEN PILL
+2025-01-12 19:52:00 - Actual time of event: 2025-01-12 19:52:00
+2025-01-13 07:51:00 - PILL EVENT DETECTED
+Pill Event: Time 0m 21.3s
+  - Within Pick-Place window: 15.2s to 77.7s
+  - 3D Tilt: 41.69
+  - Orientation: Roll=36.83°, Pitch=-5.46°, Yaw=57.52°
+  - Pressure: 562 at 53.3s
+  - Light: 443.41 lux at 46.2s
+2025-01-13 07:51:00 - MISSED PILL
+2025-01-13 07:51:00 - Actual time of event: 2025-01-13 07:51:00
+2025-01-13 13:45:00 - PILL EVENT DETECTED
+Pill Event: Time 0m 20.0s
+  - Within Pick-Place window: 53.4s to 83.9s
+  - 3D Tilt: 48.91
+  - Orientation: Roll=40.96°, Pitch=18.74°, Yaw=87.22°
+  - Pressure: 479 at 42.8s
+  - Light: 569.08 lux at 32.5s
+2025-01-13 13:45:00 - SWALLOW CONFIRMED
+2025-01-13 13:45:00 - Actual time of event: 2025-01-13 13:45:00
+2025-01-13 20:11:00 - PILL EVENT DETECTED
+Pill Event: Time 0m 21.4s
+  - Within Pick-Place window: 24.2s to 66.3s
+  - 3D Tilt: 37.00
+  - Orientation: Roll=16.27°, Pitch=19.30°, Yaw=53.20°
+  - Pressure: 556 at 40.9s
+  - Light: 177.57 lux at 29.8s
+2025-01-13 20:11:00 - MISSED PILL
+2025-01-13 20:11:00 - Actual time of event: 2025-01-13 20:11:00
+2025-01-14 07:57:00 - PILL EVENT DETECTED
+Pill Event: Time 0m 36.5s
+  - Within Pick-Place window: 40.9s to 96.4s
+  - 3D Tilt: 44.44
+  - Orientation: Roll=-34.72°, Pitch=-2.19°, Yaw=49.38°
+  - Pressure: 283 at 18.4s
+  - Light: 413.50 lux at 30.1s
+2025-01-14 07:57:00 - POSSIBLE FORGOTTEN PILL
+2025-01-14 07:57:00 - Actual time of event: 2025-01-14 07:57:00
+2025-01-14 14:04:00 - PILL EVENT DETECTED
+Pill Event: Time 0m 15.3s
+  - Within Pick-Place window: 9.3s to 87.9s
+  - 3D Tilt: 15.60
+  - Orientation: Roll=-1.35°, Pitch=15.71°, Yaw=71.20°
+  - Pressure: 493 at 56.7s
+  - Light: 423.28 lux at 35.1s
+2025-01-14 14:04:00 - MISSED PILL
+2025-01-14 14:04:00 - Actual time of event: 2025-01-14 14:04:00
+2025-01-14 20:02:00 - PILL EVENT DETECTED
+Pill Event: Time 0m 58.0s
+  - Within Pick-Place window: 15.2s to 78.3s
+  - 3D Tilt: 22.47
+  - Orientation: Roll=8.22°, Pitch=-16.40°, Yaw=66.68°
+  - Pressure: 485 at 45.1s
+  - Light: 384.52 lux at 51.1s
+2025-01-14 20:02:00 - POSSIBLE FORGOTTEN PILL
+2025-01-14 20:02:00 - Actual time of event: 2025-01-14 20:02:00
+2025-01-15 08:09:00 - PILL EVENT DETECTED
+Pill Event: Time 0m 8.8s
+  - Within Pick-Place window: 16.9s to 68.0s
+  - 3D Tilt: 12.12
+  - Orientation: Roll=19.61°, Pitch=2.19°, Yaw=77.46°
+  - Pressure: 562 at 19.2s
+  - Light: 494.68 lux at 14.1s
+2025-01-15 08:09:00 - SWALLOW CONFIRMED
+2025-01-15 08:09:00 - Actual time of event: 2025-01-15 08:09:00
+2025-01-15 13:52:00 - PILL EVENT DETECTED
+Pill Event: Time 0m 13.6s
+  - Within Pick-Place window: 44.7s to 70.2s
+  - 3D Tilt: 43.59
+  - Orientation: Roll=14.68°, Pitch=-17.26°, Yaw=82.02°
+  - Pressure: 487 at 33.7s
+  - Light: 267.66 lux at 45.7s
+2025-01-15 13:52:00 - MISSED PILL
+2025-01-15 13:52:00 - Actual time of event: 2025-01-15 13:52:00
+2025-01-15 19:54:00 - PILL EVENT DETECTED
+Pill Event: Time 0m 49.0s
+  - Within Pick-Place window: 35.3s to 91.9s
+  - 3D Tilt: 33.07
+  - Orientation: Roll=-40.83°, Pitch=-17.62°, Yaw=64.25°
+  - Pressure: 397 at 49.0s
+  - Light: 196.38 lux at 18.9s
+2025-01-15 19:54:00 - SWALLOW CONFIRMED
+2025-01-15 19:54:00 - Actual time of event: 2025-01-15 19:54:00
+2025-01-16 07:46:00 - PILL EVENT DETECTED
+Pill Event: Time 0m 5.6s
+  - Within Pick-Place window: 53.9s to 70.9s
+  - 3D Tilt: 33.09
+  - Orientation: Roll=-9.38°, Pitch=17.28°, Yaw=87.52°
+  - Pressure: 418 at 55.5s
+  - Light: 274.75 lux at 11.7s
+2025-01-16 07:46:00 - POSSIBLE FORGOTTEN PILL
+2025-01-16 07:46:00 - Actual time of event: 2025-01-16 07:46:00
+2025-01-16 14:07:00 - PILL EVENT DETECTED
+Pill Event: Time 0m 14.0s
+  - Within Pick-Place window: 42.6s to 107.7s
+  - 3D Tilt: 23.18
+  - Orientation: Roll=44.13°, Pitch=11.02°, Yaw=89.67°
+  - Pressure: 252 at 21.5s
+  - Light: 531.12 lux at 48.1s
+2025-01-16 14:07:00 - SWALLOW CONFIRMED
+2025-01-16 14:07:00 - Actual time of event: 2025-01-16 14:07:00
+2025-01-16 19:56:00 - PILL EVENT DETECTED
+Pill Event: Time 0m 19.4s
+  - Within Pick-Place window: 12.3s to 108.2s
+  - 3D Tilt: 16.19
+  - Orientation: Roll=-41.94°, Pitch=-2.27°, Yaw=62.13°
+  - Pressure: 474 at 7.7s
+  - Light: 267.58 lux at 20.2s
+2025-01-16 19:56:00 - SWALLOW CONFIRMED
+2025-01-16 19:56:00 - Actual time of event: 2025-01-16 19:56:00
+2025-01-17 07:50:00 - PILL EVENT DETECTED
+Pill Event: Time 0m 26.1s
+  - Within Pick-Place window: 6.7s to 114.3s
+  - 3D Tilt: 39.67
+  - Orientation: Roll=-41.67°, Pitch=2.03°, Yaw=55.30°
+  - Pressure: 395 at 35.1s
+  - Light: 56.11 lux at 27.2s
+2025-01-17 07:50:00 - MISSED PILL
+2025-01-17 07:50:00 - Actual time of event: 2025-01-17 07:50:00
+2025-01-17 14:14:00 - PILL EVENT DETECTED
+Pill Event: Time 0m 15.1s
+  - Within Pick-Place window: 53.0s to 116.5s
+  - 3D Tilt: 12.16
+  - Orientation: Roll=-32.87°, Pitch=-12.10°, Yaw=54.10°
+  - Pressure: 420 at 58.8s
+  - Light: 84.96 lux at 22.6s
+2025-01-17 14:14:00 - SWALLOW CONFIRMED
+2025-01-17 14:14:00 - Actual time of event: 2025-01-17 14:14:00
+2025-01-17 19:56:00 - PILL EVENT DETECTED
+Pill Event: Time 0m 38.2s
+  - Within Pick-Place window: 8.9s to 74.0s
+  - 3D Tilt: 46.53
+  - Orientation: Roll=-20.91°, Pitch=-6.78°, Yaw=48.15°
+  - Pressure: 379 at 57.8s
+  - Light: 589.19 lux at 29.6s
+2025-01-17 19:56:00 - POSSIBLE FORGOTTEN PILL
+2025-01-17 19:56:00 - Actual time of event: 2025-01-17 19:56:00
+2025-01-18 08:01:00 - PILL EVENT DETECTED
+Pill Event: Time 0m 57.1s
+  - Within Pick-Place window: 9.3s to 107.4s
+  - 3D Tilt: 16.76
+  - Orientation: Roll=47.12°, Pitch=3.30°, Yaw=81.48°
+  - Pressure: 480 at 46.7s
+  - Light: 432.32 lux at 42.1s
+2025-01-18 08:01:00 - MISSED PILL
+2025-01-18 08:01:00 - Actual time of event: 2025-01-18 08:01:00
+2025-01-18 14:14:00 - PILL EVENT DETECTED
+Pill Event: Time 0m 21.0s
+  - Within Pick-Place window: 6.5s to 77.5s
+  - 3D Tilt: 16.86
+  - Orientation: Roll=34.02°, Pitch=15.72°, Yaw=52.29°
+  - Pressure: 460 at 26.4s
+  - Light: 70.90 lux at 7.7s
+2025-01-18 14:14:00 - POSSIBLE FORGOTTEN PILL
+2025-01-18 14:14:00 - Actual time of event: 2025-01-18 14:14:00
+2025-01-18 20:12:00 - PILL EVENT DETECTED
+Pill Event: Time 0m 55.6s
+  - Within Pick-Place window: 43.2s to 79.6s
+  - 3D Tilt: 48.57
+  - Orientation: Roll=41.69°, Pitch=-13.60°, Yaw=53.52°
+  - Pressure: 323 at 28.5s
+  - Light: 523.80 lux at 34.6s
+2025-01-18 20:12:00 - POSSIBLE FORGOTTEN PILL
+2025-01-18 20:12:00 - Actual time of event: 2025-01-18 20:12:00
+2025-01-19 07:56:00 - PILL EVENT DETECTED
+Pill Event: Time 0m 25.1s
+  - Within Pick-Place window: 44.7s to 114.2s
+  - 3D Tilt: 16.41
+  - Orientation: Roll=-39.36°, Pitch=-17.77°, Yaw=67.96°
+  - Pressure: 488 at 25.9s
+  - Light: 582.65 lux at 52.5s
+2025-01-19 07:56:00 - SWALLOW CONFIRMED
+2025-01-19 07:56:00 - Actual time of event: 2025-01-19 07:56:00
+2025-01-19 13:58:00 - PILL EVENT DETECTED
+Pill Event: Time 0m 24.1s
+  - Within Pick-Place window: 45.6s to 104.3s
+  - 3D Tilt: 31.55
+  - Orientation: Roll=-23.39°, Pitch=12.52°, Yaw=74.55°
+  - Pressure: 581 at 13.1s
+  - Light: 555.68 lux at 20.6s
+2025-01-19 13:58:00 - POSSIBLE FORGOTTEN PILL
+2025-01-19 13:58:00 - Actual time of event: 2025-01-19 13:58:00
+2025-01-19 20:15:00 - PILL EVENT DETECTED
+Pill Event: Time 0m 35.1s
+  - Within Pick-Place window: 33.5s to 92.4s
+  - 3D Tilt: 29.22
+  - Orientation: Roll=30.14°, Pitch=-12.76°, Yaw=59.55°
+  - Pressure: 470 at 19.3s
+  - Light: 509.93 lux at 13.1s
+2025-01-19 20:15:00 - POSSIBLE FORGOTTEN PILL
+2025-01-19 20:15:00 - Actual time of event: 2025-01-19 20:15:00
+2025-01-20 08:07:00 - PILL EVENT DETECTED
+Pill Event: Time 0m 32.3s
+  - Within Pick-Place window: 19.3s to 112.8s
+  - 3D Tilt: 42.76
+  - Orientation: Roll=-21.08°, Pitch=-17.77°, Yaw=55.08°
+  - Pressure: 281 at 41.1s
+  - Light: 411.73 lux at 33.5s
+2025-01-20 08:07:00 - MISSED PILL
+2025-01-20 08:07:00 - Actual time of event: 2025-01-20 08:07:00
+2025-01-20 14:10:00 - PILL EVENT DETECTED
+Pill Event: Time 0m 29.8s
+  - Within Pick-Place window: 33.8s to 63.2s
+  - 3D Tilt: 19.45
+  - Orientation: Roll=14.66°, Pitch=-11.54°, Yaw=84.14°
+  - Pressure: 310 at 34.4s
+  - Light: 326.98 lux at 50.3s
+2025-01-20 14:10:00 - POSSIBLE FORGOTTEN PILL
+2025-01-20 14:10:00 - Actual time of event: 2025-01-20 14:10:00
+2025-01-20 19:58:00 - PILL EVENT DETECTED
+Pill Event: Time 0m 48.9s
+  - Within Pick-Place window: 36.8s to 91.8s
+  - 3D Tilt: 26.46
+  - Orientation: Roll=4.75°, Pitch=11.86°, Yaw=70.41°
+  - Pressure: 322 at 32.1s
+  - Light: 269.14 lux at 23.2s
+2025-01-20 19:58:00 - MISSED PILL
+2025-01-20 19:58:00 - Actual time of event: 2025-01-20 19:58:00
+2025-01-21 08:02:00 - PILL EVENT DETECTED
+Pill Event: Time 0m 39.8s
+  - Within Pick-Place window: 55.7s to 116.7s
+  - 3D Tilt: 15.07
+  - Orientation: Roll=-21.24°, Pitch=-7.52°, Yaw=72.98°
+  - Pressure: 454 at 35.7s
+  - Light: 573.77 lux at 22.6s
+2025-01-21 08:02:00 - POSSIBLE FORGOTTEN PILL
+2025-01-21 08:02:00 - Actual time of event: 2025-01-21 08:02:00
+2025-01-21 14:01:00 - PILL EVENT DETECTED
+Pill Event: Time 0m 50.4s
+  - Within Pick-Place window: 53.4s to 109.0s
+  - 3D Tilt: 43.36
+  - Orientation: Roll=49.98°, Pitch=-17.75°, Yaw=50.40°
+  - Pressure: 488 at 47.2s
+  - Light: 396.39 lux at 15.2s
+2025-01-21 14:01:00 - POSSIBLE FORGOTTEN PILL
+2025-01-21 14:01:00 - Actual time of event: 2025-01-21 14:01:00
+2025-01-21 19:51:00 - PILL EVENT DETECTED
+Pill Event: Time 0m 14.9s
+  - Within Pick-Place window: 26.6s to 113.1s
+  - 3D Tilt: 16.43
+  - Orientation: Roll=-31.86°, Pitch=-11.66°, Yaw=55.67°
+  - Pressure: 548 at 50.5s
+  - Light: 379.92 lux at 29.0s
+2025-01-21 19:51:00 - MISSED PILL
+2025-01-21 19:51:00 - Actual time of event: 2025-01-21 19:51:00
+2025-01-22 07:57:00 - PILL EVENT DETECTED
+Pill Event: Time 0m 14.5s
+  - Within Pick-Place window: 55.3s to 102.5s
+  - 3D Tilt: 12.36
+  - Orientation: Roll=-47.45°, Pitch=-13.47°, Yaw=83.47°
+  - Pressure: 600 at 30.0s
+  - Light: 295.88 lux at 35.1s
+2025-01-22 07:57:00 - POSSIBLE FORGOTTEN PILL
+2025-01-22 07:57:00 - Actual time of event: 2025-01-22 07:57:00
+2025-01-22 13:54:00 - PILL EVENT DETECTED
+Pill Event: Time 0m 16.7s
+  - Within Pick-Place window: 54.3s to 117.4s
+  - 3D Tilt: 42.21
+  - Orientation: Roll=16.85°, Pitch=12.76°, Yaw=57.79°
+  - Pressure: 509 at 28.4s
+  - Light: 110.83 lux at 15.0s
+2025-01-22 13:54:00 - MISSED PILL
+2025-01-22 13:54:00 - Actual time of event: 2025-01-22 13:54:00
+2025-01-22 20:05:00 - PILL EVENT DETECTED
+Pill Event: Time 0m 7.6s
+  - Within Pick-Place window: 12.0s to 116.7s
+  - 3D Tilt: 10.65
+  - Orientation: Roll=21.31°, Pitch=6.41°, Yaw=40.07°
+  - Pressure: 337 at 17.3s
+  - Light: 317.62 lux at 24.9s
+2025-01-22 20:05:00 - MISSED PILL
+2025-01-22 20:05:00 - Actual time of event: 2025-01-22 20:05:00
+2025-01-23 07:59:00 - PILL EVENT DETECTED
+Pill Event: Time 0m 19.3s
+  - Within Pick-Place window: 19.4s to 63.1s
+  - 3D Tilt: 34.40
+  - Orientation: Roll=35.98°, Pitch=11.72°, Yaw=46.10°
+  - Pressure: 366 at 46.3s
+  - Light: 137.37 lux at 50.3s
+2025-01-23 07:59:00 - MISSED PILL
+2025-01-23 07:59:00 - Actual time of event: 2025-01-23 07:59:00
+2025-01-23 14:12:00 - PILL EVENT DETECTED
+Pill Event: Time 0m 35.0s
+  - Within Pick-Place window: 19.0s to 87.2s
+  - 3D Tilt: 43.45
+  - Orientation: Roll=-41.01°, Pitch=-15.40°, Yaw=83.61°
+  - Pressure: 447 at 34.3s
+  - Light: 511.84 lux at 27.9s
+2025-01-23 14:12:00 - MISSED PILL
+2025-01-23 14:12:00 - Actual time of event: 2025-01-23 14:12:00
+2025-01-23 20:02:00 - PILL EVENT DETECTED
+Pill Event: Time 0m 26.6s
+  - Within Pick-Place window: 19.4s to 69.1s
+  - 3D Tilt: 29.18
+  - Orientation: Roll=-27.16°, Pitch=-0.11°, Yaw=66.41°
+  - Pressure: 256 at 57.7s
+  - Light: 174.42 lux at 7.2s
+2025-01-23 20:02:00 - SWALLOW CONFIRMED
+2025-01-23 20:02:00 - Actual time of event: 2025-01-23 20:02:00
+2025-01-24 08:07:00 - PILL EVENT DETECTED
+Pill Event: Time 0m 52.6s
+  - Within Pick-Place window: 13.9s to 111.9s
+  - 3D Tilt: 33.34
+  - Orientation: Roll=38.34°, Pitch=-16.05°, Yaw=62.92°
+  - Pressure: 515 at 24.2s
+  - Light: 162.79 lux at 38.9s
+2025-01-24 08:07:00 - POSSIBLE FORGOTTEN PILL
+2025-01-24 08:07:00 - Actual time of event: 2025-01-24 08:07:00
+2025-01-24 13:45:00 - PILL EVENT DETECTED
+Pill Event: Time 0m 47.4s
+  - Within Pick-Place window: 44.6s to 76.1s
+  - 3D Tilt: 42.16
+  - Orientation: Roll=10.68°, Pitch=-4.52°, Yaw=79.94°
+  - Pressure: 533 at 40.4s
+  - Light: 126.25 lux at 36.0s
+2025-01-24 13:45:00 - MISSED PILL
+2025-01-24 13:45:00 - Actual time of event: 2025-01-24 13:45:00
+2025-01-24 19:49:00 - PILL EVENT DETECTED
+Pill Event: Time 0m 24.4s
+  - Within Pick-Place window: 56.3s to 113.7s
+  - 3D Tilt: 13.81
+  - Orientation: Roll=-32.74°, Pitch=-5.89°, Yaw=48.56°
+  - Pressure: 251 at 32.5s
+  - Light: 584.29 lux at 58.1s
+2025-01-24 19:49:00 - SWALLOW CONFIRMED
+2025-01-24 19:49:00 - Actual time of event: 2025-01-24 19:49:00
+2025-01-25 08:10:00 - PILL EVENT DETECTED
+Pill Event: Time 0m 29.3s
+  - Within Pick-Place window: 27.3s to 97.2s
+  - 3D Tilt: 21.73
+  - Orientation: Roll=8.66°, Pitch=-8.17°, Yaw=67.24°
+  - Pressure: 380 at 45.2s
+  - Light: 351.78 lux at 50.6s
+2025-01-25 08:10:00 - SWALLOW CONFIRMED
+2025-01-25 08:10:00 - Actual time of event: 2025-01-25 08:10:00
+2025-01-25 14:10:00 - PILL EVENT DETECTED
+Pill Event: Time 0m 48.7s
+  - Within Pick-Place window: 53.6s to 108.1s
+  - 3D Tilt: 21.25
+  - Orientation: Roll=29.45°, Pitch=12.23°, Yaw=40.58°
+  - Pressure: 347 at 41.3s
+  - Light: 458.79 lux at 54.5s
+2025-01-25 14:10:00 - MISSED PILL
+2025-01-25 14:10:00 - Actual time of event: 2025-01-25 14:10:00
+2025-01-25 20:06:00 - PILL EVENT DETECTED
+Pill Event: Time 0m 38.9s
+  - Within Pick-Place window: 40.4s to 94.4s
+  - 3D Tilt: 11.47
+  - Orientation: Roll=2.60°, Pitch=-5.41°, Yaw=84.39°
+  - Pressure: 356 at 23.2s
+  - Light: 249.94 lux at 59.0s
+2025-01-25 20:06:00 - POSSIBLE FORGOTTEN PILL
+2025-01-25 20:06:00 - Actual time of event: 2025-01-25 20:06:00
+2025-01-26 08:07:00 - PILL EVENT DETECTED
+Pill Event: Time 0m 23.5s
+  - Within Pick-Place window: 36.0s to 107.7s
+  - 3D Tilt: 20.72
+  - Orientation: Roll=10.53°, Pitch=-3.18°, Yaw=62.14°
+  - Pressure: 346 at 24.2s
+  - Light: 321.86 lux at 50.7s
+2025-01-26 08:07:00 - MISSED PILL
+2025-01-26 08:07:00 - Actual time of event: 2025-01-26 08:07:00
+2025-01-26 13:57:00 - PILL EVENT DETECTED
+Pill Event: Time 0m 18.8s
+  - Within Pick-Place window: 57.4s to 119.0s
+  - 3D Tilt: 44.17
+  - Orientation: Roll=-3.10°, Pitch=12.04°, Yaw=45.63°
+  - Pressure: 341 at 23.9s
+  - Light: 501.56 lux at 32.6s
+2025-01-26 13:57:00 - MISSED PILL
+2025-01-26 13:57:00 - Actual time of event: 2025-01-26 13:57:00
+2025-01-26 19:57:00 - PILL EVENT DETECTED
+Pill Event: Time 0m 36.7s
+  - Within Pick-Place window: 5.9s to 61.1s
+  - 3D Tilt: 22.63
+  - Orientation: Roll=-39.04°, Pitch=-9.46°, Yaw=64.19°
+  - Pressure: 441 at 40.6s
+  - Light: 416.44 lux at 30.1s
+2025-01-26 19:57:00 - POSSIBLE FORGOTTEN PILL
+2025-01-26 19:57:00 - Actual time of event: 2025-01-26 19:57:00
+2025-01-27 07:55:00 - PILL EVENT DETECTED
+Pill Event: Time 0m 41.7s
+  - Within Pick-Place window: 48.8s to 68.6s
+  - 3D Tilt: 15.70
+  - Orientation: Roll=-19.18°, Pitch=9.10°, Yaw=75.39°
+  - Pressure: 298 at 52.7s
+  - Light: 83.41 lux at 58.8s
+2025-01-27 07:55:00 - MISSED PILL
+2025-01-27 07:55:00 - Actual time of event: 2025-01-27 07:55:00
+2025-01-27 13:47:00 - PILL EVENT DETECTED
+Pill Event: Time 0m 5.9s
+  - Within Pick-Place window: 39.2s to 112.6s
+  - 3D Tilt: 14.81
+  - Orientation: Roll=10.64°, Pitch=19.75°, Yaw=63.67°
+  - Pressure: 508 at 52.3s
+  - Light: 569.36 lux at 7.4s
+2025-01-27 13:47:00 - SWALLOW CONFIRMED
+2025-01-27 13:47:00 - Actual time of event: 2025-01-27 13:47:00
+2025-01-27 19:53:00 - PILL EVENT DETECTED
+Pill Event: Time 0m 17.9s
+  - Within Pick-Place window: 44.8s to 106.5s
+  - 3D Tilt: 35.47
+  - Orientation: Roll=25.18°, Pitch=-1.72°, Yaw=60.56°
+  - Pressure: 380 at 25.8s
+  - Light: 512.12 lux at 32.2s
+2025-01-27 19:53:00 - SWALLOW CONFIRMED
+2025-01-27 19:53:00 - Actual time of event: 2025-01-27 19:53:00
+2025-01-28 08:00:00 - PILL EVENT DETECTED
+Pill Event: Time 0m 25.5s
+  - Within Pick-Place window: 8.0s to 93.3s
+  - 3D Tilt: 35.15
+  - Orientation: Roll=-23.15°, Pitch=7.54°, Yaw=63.75°
+  - Pressure: 555 at 55.5s
+  - Light: 240.94 lux at 37.3s
+2025-01-28 08:00:00 - POSSIBLE FORGOTTEN PILL
+2025-01-28 08:00:00 - Actual time of event: 2025-01-28 08:00:00
+2025-01-28 13:55:00 - PILL EVENT DETECTED
+Pill Event: Time 0m 17.3s
+  - Within Pick-Place window: 51.9s to 103.7s
+  - 3D Tilt: 19.43
+  - Orientation: Roll=39.21°, Pitch=11.73°, Yaw=49.10°
+  - Pressure: 343 at 45.2s
+  - Light: 134.10 lux at 37.3s
+2025-01-28 13:55:00 - POSSIBLE FORGOTTEN PILL
+2025-01-28 13:55:00 - Actual time of event: 2025-01-28 13:55:00
+2025-01-28 19:52:00 - PILL EVENT DETECTED
+Pill Event: Time 0m 8.9s
+  - Within Pick-Place window: 20.5s to 109.9s
+  - 3D Tilt: 46.73
+  - Orientation: Roll=-44.45°, Pitch=14.89°, Yaw=75.78°
+  - Pressure: 359 at 35.8s
+  - Light: 108.45 lux at 37.7s
+2025-01-28 19:52:00 - MISSED PILL
+2025-01-28 19:52:00 - Actual time of event: 2025-01-28 19:52:00
+2025-01-29 08:10:00 - PILL EVENT DETECTED
+Pill Event: Time 0m 58.9s
+  - Within Pick-Place window: 41.3s to 71.7s
+  - 3D Tilt: 14.20
+  - Orientation: Roll=19.15°, Pitch=-3.65°, Yaw=47.03°
+  - Pressure: 571 at 57.8s
+  - Light: 517.69 lux at 38.1s
+2025-01-29 08:10:00 - POSSIBLE FORGOTTEN PILL
+2025-01-29 08:10:00 - Actual time of event: 2025-01-29 08:10:00
+2025-01-29 14:15:00 - PILL EVENT DETECTED
+Pill Event: Time 0m 19.5s
+  - Within Pick-Place window: 38.0s to 87.0s
+  - 3D Tilt: 33.59
+  - Orientation: Roll=37.25°, Pitch=-13.68°, Yaw=79.01°
+  - Pressure: 286 at 56.6s
+  - Light: 362.29 lux at 7.7s
+2025-01-29 14:15:00 - MISSED PILL
+2025-01-29 14:15:00 - Actual time of event: 2025-01-29 14:15:00
+2025-01-29 20:12:00 - PILL EVENT DETECTED
+Pill Event: Time 0m 18.9s
+  - Within Pick-Place window: 14.5s to 71.4s
+  - 3D Tilt: 12.00
+  - Orientation: Roll=16.65°, Pitch=-11.95°, Yaw=55.42°
+  - Pressure: 405 at 7.6s
+  - Light: 505.66 lux at 43.1s
+2025-01-29 20:12:00 - POSSIBLE FORGOTTEN PILL
+2025-01-29 20:12:00 - Actual time of event: 2025-01-29 20:12:00
+2025-01-30 07:56:00 - PILL EVENT DETECTED
+Pill Event: Time 0m 46.3s
+  - Within Pick-Place window: 54.4s to 68.5s
+  - 3D Tilt: 26.69
+  - Orientation: Roll=10.37°, Pitch=-2.71°, Yaw=50.76°
+  - Pressure: 291 at 43.2s
+  - Light: 151.93 lux at 30.4s
+2025-01-30 07:56:00 - SWALLOW CONFIRMED
+2025-01-30 07:56:00 - Actual time of event: 2025-01-30 07:56:00
+2025-01-30 14:02:00 - PILL EVENT DETECTED
+Pill Event: Time 0m 32.6s
+  - Within Pick-Place window: 39.7s to 65.9s
+  - 3D Tilt: 25.10
+  - Orientation: Roll=17.12°, Pitch=14.56°, Yaw=83.23°
+  - Pressure: 505 at 36.8s
+  - Light: 507.21 lux at 39.8s
+2025-01-30 14:02:00 - MISSED PILL
+2025-01-30 14:02:00 - Actual time of event: 2025-01-30 14:02:00
+2025-01-30 19:50:00 - PILL EVENT DETECTED
+Pill Event: Time 0m 57.8s
+  - Within Pick-Place window: 42.1s to 111.2s
+  - 3D Tilt: 30.96
+  - Orientation: Roll=4.99°, Pitch=-6.05°, Yaw=81.63°
+  - Pressure: 389 at 7.6s
+  - Light: 145.48 lux at 39.2s
+2025-01-30 19:50:00 - SWALLOW CONFIRMED
+2025-01-30 19:50:00 - Actual time of event: 2025-01-30 19:50:00
+2025-01-31 07:48:00 - PILL EVENT DETECTED
+Pill Event: Time 0m 37.2s
+  - Within Pick-Place window: 40.3s to 77.8s
+  - 3D Tilt: 35.86
+  - Orientation: Roll=17.79°, Pitch=-12.25°, Yaw=67.65°
+  - Pressure: 358 at 23.0s
+  - Light: 439.37 lux at 46.8s
+2025-01-31 07:48:00 - POSSIBLE FORGOTTEN PILL
+2025-01-31 07:48:00 - Actual time of event: 2025-01-31 07:48:00
+2025-01-31 14:09:00 - PILL EVENT DETECTED
+Pill Event: Time 0m 9.8s
+  - Within Pick-Place window: 18.7s to 80.9s
+  - 3D Tilt: 39.21
+  - Orientation: Roll=46.89°, Pitch=-12.46°, Yaw=87.74°
+  - Pressure: 453 at 28.9s
+  - Light: 390.64 lux at 19.3s
+2025-01-31 14:09:00 - POSSIBLE FORGOTTEN PILL
+2025-01-31 14:09:00 - Actual time of event: 2025-01-31 14:09:00
+2025-01-31 20:01:00 - PILL EVENT DETECTED
+Pill Event: Time 0m 35.6s
+  - Within Pick-Place window: 41.7s to 113.9s
+  - 3D Tilt: 24.12
+  - Orientation: Roll=5.80°, Pitch=14.28°, Yaw=84.96°
+  - Pressure: 496 at 21.2s
+  - Light: 355.74 lux at 32.1s
+2025-01-31 20:01:00 - POSSIBLE FORGOTTEN PILL
+2025-01-31 20:01:00 - Actual time of event: 2025-01-31 20:01:00
